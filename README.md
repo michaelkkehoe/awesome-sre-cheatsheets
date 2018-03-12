@@ -2,7 +2,7 @@ Awesome SRE Cheatsheets
 
 ## Systems
 ### Linux
-* [Signals](https://s905060.gitbooks.io/site-reliability-engineer-handbook/posix_signals.htmlt )
+* [Signals](https://s905060.gitbooks.io/site-reliability-engineer-handbook/posix_signals.html )
 * [Syscalls](http://man7.org/linux/man-pages/man2/syscalls.2.html)
 ### Other
 * [RAID](https://s905060.gitbooks.io/site-reliability-engineer-handbook/raid.html)
