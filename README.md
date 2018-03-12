@@ -34,6 +34,7 @@ Awesome SRE Cheatsheets
 * [Jinja](https://media.readthedocs.org/pdf/jinja2/latest/jinja2.pdf) See Page 45
 
 ## Automation
+* [SaltStack](https://github.com/saltstack/salt/wiki/Cheat-Sheet)
 
 ## Writing
 * [Latex](https://www.nyu.edu/projects/beber/files/Chang_LaTeX_sheet.pdf)
