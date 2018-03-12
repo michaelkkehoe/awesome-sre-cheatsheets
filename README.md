@@ -34,3 +34,9 @@ Awesome SRE Cheatsheets
 * [Jinja](https://media.readthedocs.org/pdf/jinja2/latest/jinja2.pdf) See Page 45
 
 ## Automation
+
+## Writing
+* [Latex](https://www.nyu.edu/projects/beber/files/Chang_LaTeX_sheet.pdf)
+* [Latex Math Symbols](https://reu.dimacs.rutgers.edu/Symbols.pdf)
+* [Latex Quick Guide](https://users.dickinson.edu/~richesod/latex/latexcheatsheet.pdf)
+* [Markdown](http://packetlife.net/media/library/16/Markdown.pdf)
