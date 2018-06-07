@@ -6,6 +6,7 @@ Awesome SRE Cheatsheets
 * [Syscalls](http://man7.org/linux/man-pages/man2/syscalls.2.html)
 ### Other
 * [RAID](https://s905060.gitbooks.io/site-reliability-engineer-handbook/raid.html)
+* [Linux Boot Process](https://github.com/nu11secur1ty/All-Stages-of-Linux-Booting-Process-)
 
 ## Networks
 ### Layer 2 Protocols
@@ -32,6 +33,7 @@ Awesome SRE Cheatsheets
 * [Hotspot JVM Options](http://blog.ragozin.info/2013/11/hotspot-jvm-garbage-collection-options.html)
 * [Hotspot Options](https://raw.githubusercontent.com/aragozin/sketchbook/download/Java%208%20-%20GC%20cheatsheet.pdf)
 * [JVM Options](https://zeroturnaround.com/wp-content/uploads/2016/12/JVM-Options-cheat-sheet-v1.pdf)
+* [Garbage Collection](https://dzone.com/articles/java-memory-architecture-model-garbage-collection)
 ### Python
 * [Flask](https://docs.google.com/file/d/1pnwfq8v5Ph4Xn8ttv9P_TLnrRbT9-S_v-KdZiEcx64vlGYkC0SoMfZOs0NYN/edit)
 * [Django](https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
