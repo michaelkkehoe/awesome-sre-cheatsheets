@@ -40,6 +40,7 @@
 * [Jinja](https://media.readthedocs.org/pdf/jinja2/latest/jinja2.pdf) See Page 45
 
 ## Automation
+* [Puppet](https://puppet.com/blog/learning-puppet-has-launched-cheat-sheets-are-go)
 * [SaltStack](https://github.com/saltstack/salt/wiki/Cheat-Sheet)
 
 ## Writing
