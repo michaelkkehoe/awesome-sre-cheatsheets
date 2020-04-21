@@ -31,12 +31,20 @@
 * [TCP/ IP Pocket Reference Guide](https://www.garykessler.net/library/tcpip_prg_GKA.pdf)
 
 ## Software
+### Golang
+* [General - Devhints](https://devhints.io/go)
+* [General - a8m](https://github.com/a8m/golang-cheat-sheet)
+* [General - cheat-sheets.org](http://www.cheat-sheets.org/saved-copy/go-lang-cheat-sheet-master.20181212/golang_refcard.pdf)
+
 ### Java
 * [Hotspot JVM Options](http://blog.ragozin.info/2013/11/hotspot-jvm-garbage-collection-options.html)
 * [Hotspot Options](https://raw.githubusercontent.com/aragozin/sketchbook/download/Java%208%20-%20GC%20cheatsheet.pdf)
 * [JVM Options](https://zeroturnaround.com/wp-content/uploads/2016/12/JVM-Options-cheat-sheet-v1.pdf)
 * [Garbage Collection](https://dzone.com/articles/java-memory-architecture-model-garbage-collection)
+
 ### Python
+* [Python3](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+* [Python 3.7](https://opensource.com/downloads/cheat-sheet-python-37-beginners)
 * [Flask](https://docs.google.com/file/d/1pnwfq8v5Ph4Xn8ttv9P_TLnrRbT9-S_v-KdZiEcx64vlGYkC0SoMfZOs0NYN/edit)
 * [Django](https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
 * [Jinja](https://media.readthedocs.org/pdf/jinja2/latest/jinja2.pdf) See Page 45
