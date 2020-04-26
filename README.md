@@ -58,3 +58,6 @@
 * [Latex Math Symbols](https://reu.dimacs.rutgers.edu/Symbols.pdf)
 * [Latex Quick Guide](https://users.dickinson.edu/~richesod/latex/latexcheatsheet.pdf)
 * [Markdown](http://packetlife.net/media/library/16/Markdown.pdf)
+
+## Other
+* [Awesome (Google) Spanner]https://github.com/rakyll/awesome-spanner
