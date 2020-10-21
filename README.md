@@ -60,4 +60,4 @@
 * [Markdown](http://packetlife.net/media/library/16/Markdown.pdf)
 
 ## Other
-* [Awesome (Google) Spanner]https://github.com/rakyll/awesome-spanner
+* [Awesome (Google) Spanner](https://github.com/rakyll/awesome-spanner)
